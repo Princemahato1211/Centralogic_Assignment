@@ -1,0 +1,15 @@
+B:\Centralogic\Week1_Prince_Mahato\Program1\bin\Debug\net7.0\Program1.exe
+B:\Centralogic\Week1_Prince_Mahato\Program1\bin\Debug\net7.0\Program1.deps.json
+B:\Centralogic\Week1_Prince_Mahato\Program1\bin\Debug\net7.0\Program1.runtimeconfig.json
+B:\Centralogic\Week1_Prince_Mahato\Program1\bin\Debug\net7.0\Program1.dll
+B:\Centralogic\Week1_Prince_Mahato\Program1\bin\Debug\net7.0\Program1.pdb
+B:\Centralogic\Week1_Prince_Mahato\Program1\obj\Debug\net7.0\Program1.csproj.AssemblyReference.cache
+B:\Centralogic\Week1_Prince_Mahato\Program1\obj\Debug\net7.0\Program1.GeneratedMSBuildEditorConfig.editorconfig
+B:\Centralogic\Week1_Prince_Mahato\Program1\obj\Debug\net7.0\Program1.AssemblyInfoInputs.cache
+B:\Centralogic\Week1_Prince_Mahato\Program1\obj\Debug\net7.0\Program1.AssemblyInfo.cs
+B:\Centralogic\Week1_Prince_Mahato\Program1\obj\Debug\net7.0\Program1.csproj.CoreCompileInputs.cache
+B:\Centralogic\Week1_Prince_Mahato\Program1\obj\Debug\net7.0\Program1.dll
+B:\Centralogic\Week1_Prince_Mahato\Program1\obj\Debug\net7.0\refint\Program1.dll
+B:\Centralogic\Week1_Prince_Mahato\Program1\obj\Debug\net7.0\Program1.pdb
+B:\Centralogic\Week1_Prince_Mahato\Program1\obj\Debug\net7.0\Program1.genruntimeconfig.cache
+B:\Centralogic\Week1_Prince_Mahato\Program1\obj\Debug\net7.0\ref\Program1.dll
